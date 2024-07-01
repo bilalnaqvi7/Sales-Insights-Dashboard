@@ -1,13 +1,6 @@
 # Sales-Insights-Dashboard
 Designed a Power BI dashboard to understand a real-life firm - AtliQ's hardware goods sales trend. The final dashboard was effective at displaying the sales trend of AtliQ hardware, allowing users to understand the data and make informed decisions. This dashboard could help in increasing the revenue at least by 7% in the next quarter.
 # Sales Insight Dashboard using PowerBI
-## Sales insights project Powerbi Dashboard
-
-This project I learn from code basics youtube channel. you can find link is below.
-
-
-[code basics youtube Playlist](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
-
 
 ## Problem statement
 
